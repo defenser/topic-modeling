@@ -1,0 +1,1 @@
+protocol testtcompactprotocol protocoltestbase override tprotocolfactory getfactory tcompactprotocol.factory override canbeusednaked testtcompactprotocol benchmark 

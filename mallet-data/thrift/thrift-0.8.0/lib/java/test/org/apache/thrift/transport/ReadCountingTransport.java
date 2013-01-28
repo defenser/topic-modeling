@@ -1,0 +1,1 @@
+transport readcountingtransport ttransport readcount ttransport trans readcountingtransport ttransport underlying trans underlying override close override isopen override ttransportexception override read buf len ttransportexception readcount trans.read buf len override write buf len ttransportexception 

@@ -1,0 +1,1 @@
+impl xs xni QName xselementdeclhelper xselementdecl getglobalelementdecl qname element 

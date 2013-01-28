@@ -1,0 +1,1 @@
+wml dom wml WMLGoElement wmlgoelementimpl wmlelementimpl wmlgoelement serialversionuid l wmlgoelementimpl wmldocumentimpl owner tagname owner tagname setsendreferer newvalue newvalue getsendreferer setacceptcharset newvalue newvalue getacceptcharset sethref newvalue newvalue gethref newvalue newvalue setid newvalue newvalue getid newvalue newvalue 

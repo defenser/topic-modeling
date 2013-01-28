@@ -1,0 +1,1 @@
+xs datatypes xml datatype Duration xml datatype XMLGregorianCalendar xsdatetime getyears getmonths getdays gethours getminutes getseconds hastimezone gettimezonehours gettimezoneminutes getlexicalvalue xsdatetime normalize isnormalized xmlgregoriancalendar getxmlgregoriancalendar duration getduration 

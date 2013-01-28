@@ -1,0 +1,50 @@
+0	0.02	ooe set is list integer i linkedlist exceptionthrown fieldforid isset characters some field boolean precision double base bite a 
+1	0.02	rhs lhs javatesthelper opt req obj bin equals hashcode bytebuffer wrap int intisset setopt setreq test testtframedtransport equalitytest nio 
+2	0.02	serverthread props security mechanism inbuf testmessage wrapped password saslclienttransport saslservertransport unwrapped callback host testsaslcallbackhandler service username thrown principal auth 
+3	0.02	protocol tfieldidenum fieldidpathrest fieldidpathfirst ttype bytes field texception type i partialdeserializefield trans fieldidpath reset curpathindex base tfield locatefield clear 
+4	0.02	testclient thing numberz xtruct i thrifttest insanity hashmap client arg put texception insane transport assertequals usermap mapout x xtructs 
+5	0.02	server processor tprotocolfactory args transport port tserver protofactory tserversocket servertestbase testhandler test serverthread tprocessor protocol tnonblockingserversocket socket override ttransport 
+6	0.02	vector sb append length grow pushed initialcapacity stringbuilder getasyncclient arraycopy top pop peek push override tostring system 
+7	0.02	inputtransport outputtransport processor inputprotocolfactory io endchunknum startchunknum outputprotocolfactory tprotocolfactory texception processchunk tprocessor chunknum numchunks getcurchunk curchunk tfileprocessor tprotocol protocol 
+8	0.02	this response customheaders map http entry processor outprotocolfactory inprotocolfactory servletexception servlet header request tprocessor getvalue outtransport intransport tservlet httpservletresponse 
+9	0.02	ttransportexception inputstream iox outputstream url connection len client buf customheaders io setrequestproperty close os tiostreamtransport write post requestbuffer timeout 
+10	0.02	transport t ttransport processor args client logger servertransport this ttransportexception tprocessor ttransportfactory processorfactory outputtransport outputprotocolfactory ttx close stopped outputtransportfactory 
+11	0.02	sasl logger saslclient negotiationstatus status mechanism underlyingtransport saslserver saslexception message payload debug props protocol cbh servername ttransportexception this ttransport 
+12	0.02	pos array amttoread override autoexpandingbuffer length arr growthcoefficient arraycopy resizeifnecessary system notimplementedexception transport newbuf endpos initialcapacity limit this towrite 
+13	0.02	bytes bitset length bits vectorwidth bs tuplescheme ischeme scheme ttransport ceil readbitset writebitset getscheme math readbyte ttupleprotocol set trans 
+14	0.02	ttransportexception serversocket socketchannel socket logger iox port clienttimeout timeout net close sx inetsocketaddress host open tsocket selector bindaddr loggerfactory 
+15	0.02	optional required default tfieldrequirementtype testcleanupallselectionkeys settimeout tframedtransport 
+16	0.02	trans assertequals readbuf bytearrayoutputstream read write counttrans dos baos readcount membuf io getbytesremaininginbuffer asserttrue ttransport writecount countingtrans readcountingtransport din 
+17	0.02	oprot iprot tprotocol protocol tapplicationexception tmessage seqid i texception tprotocolutil tmessagetype methodname msg tbase iface name write t exception 
+18	0.02	override name ttype ch context trans tprotocolexception tmpbuf quote len write escapenum readjsoninteger writejsoninteger readjsonsyntaxchar read readjsonstring data reader 
+19	0.02	tenum numberz getbyvalue tenumhelper getvalue testgetbyvalue class enummetadata invocationtargetexception reflect illegalaccessexception nosuchmethodexception method ite iae nsme invoke instantiationexception invalidclass 
+20	0.02	key counters put name concurrenthashmap options getcounter alive abstractmap get increment incrementcounter facebookbase fb iface void reinitialize getcpuprofile alivesince 
+21	0.02	http this writer httpservice body conn write file protocol response output docroot entitytemplate serversocket outputstreamwriter ex outstream target method 
+22	0.02	struct fieldid f iprot oprot tprotocol t tunion tbase scheme texception sb ischeme copy getfieldvalue getscheme setfield append enumforid 
+23	0.02	compareto lastcomparison bytebuffer o orig oa a arrayoffset ob sb comparator length origlimit remaining limit offset copy iterb itera 
+24	0.02	type message cause field texception tprotocolexception ttransportexception tfield name tstruct id ttype serialversionuid l protocol skip gettype invalid writefieldbegin 
+25	0.02	texception trans write i writei readi bin map tfield list tstruct field length escape message ttransport unsupportedencodingexception append tset 
+26	0.02	buffer selectionkey read framebuffer framebufferstate bytebuffer write reading size response frame selector logger key nio transport awaiting framesize tnonblockingtransport 
+27	0.02	args executorservice framebuffer logger stoptimeoutunit stoptimeoutval this key timeunit selectorthread stopped selectionkey tnonblockingtransport concurrent selectedkeys invoker workerthreads warn client 
+28	0.02	
+29	0.02	testunion union field cu swau i proto fields compareto asserttrue comparableunion buf assertfalse assertequals structwithaunion tmemorybuffer u tu set 
+30	0.02	work num io transport client calculator n log sharedstruct op tssltransportparameters tssltransportfactory key entry logid calculatorhandler hashmap why protocol 
+31	0.02	proto tmemorybuffer tprotocol buf assertequals getfactory getprotocol structfieldtestcase canbeusednaked writemethod readmethod field testcase tmessage internaltesti internaltestnakedi data internalteststructfield compactprototeststruct 
+32	0.02	srv client latch asyncclient call override texception returned sink exception fail countdownlatch response countdown atomicboolean janky jankyrunnable getclient asserttrue 
+33	0.02	b assertequals tbasehelper bytebuffer asserttrue wrap t compareto bytes hashset hashmap bb testcase array position copybinary bcopy sb length 
+34	0.02	buf trans assertequals offset getbytesremaininginbuffer getbufferposition integer input tmemoryinputtransport readbuffer reset getbuffer testcase asserttrue readall decodebigendian encodebigendian bytesremaining new 
+35	0.02	methodcall tasyncmethodcall selector selectthread logger timeoutwatchset iterator gettimeouttimestamp exception left running keys channels nio method right selecttime pendingcalls concurrentlinkedqueue 
+36	0.02	srcoff src table dstoff encode decode charat len utils tbase protocol 
+37	0.02	fields level oneofeach testunion factory test structwithaunion swu struct deserializer union assertequals serialize field resulti expectedi testpartialdeserialize protocolfactory resultbinary 
+38	0.02	insanity bonk assertequals crazynesting oneofeach holymoley mdmap fields ooe field get compareto stage valuemetadata hm test asserttrue n nesting 
+39	0.02	settimeout 
+40	0.02	
+41	0.02	i out buf trans rd version strictwrite strictread readall readlength message readbyte checkreadlength writebyte type length tbinaryprotocol dat consumebuffer 
+42	0.02	key transport state protocolfactory this timeout client tasyncclient error tprotocolfactory sizebuffer tnonblockingtransport request manager callback body t protocol isoneway 
+43	0.02	type fieldvaluemetadata this meta data structmap elemmetadata tbase fieldmetadata vmetadata emetadata valuemetadata typedefname tfieldidenum keymetadata isbinary requirementtype map fieldname 
+44	0.02	ttype prot type types i map texception list stop elemtype length skip data field boolean protocol maxdepth writebytedirect lastfieldid 
+45	0.02	ttransportexception iox inputstream chunk inputfile len buf nread io cs outputstream tailpolicy esize retries offset readonly ndesired size getmessage 
+46	0.02	params port ttransportexception clientauth keystore this ctx host tssltransportparameters keypass ciphersuites factory timeout net protocol trustpass truststore iskeystoreset ssl 
+47	0.02	factory tprotocolfactory protocol transport texception tbinaryprotocol fixtures tprotocol base tbase io protocolfactory getprotocol tiostreamtransport test tserializer ttransport trans tcompactprotocol 
+48	0.02	buf len ttransportexception override transport ttransport write length readbuffer maxlength read isopen writebuffer underlying close tbytearrayoutputstream i default tframedtransport 
+49	0.02	s push pop stdstack rep num assertequals system times trial currenttimemillis start peek timesbyfactory reps trials total end get 

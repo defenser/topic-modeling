@@ -1,0 +1,1 @@
+protocol testtbinaryprotocol protocoltestbase override tprotocolfactory getfactory tbinaryprotocol.factory override canbeusednaked 

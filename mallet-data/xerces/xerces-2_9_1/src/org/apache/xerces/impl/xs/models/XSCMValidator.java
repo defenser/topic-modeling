@@ -1,0 +1,1 @@
+impl xs models xni QName impl xs SubstitutionGroupHandler impl xs XMLSchemaException xscmvalidator first_error subsequent_error startcontentmodel onetransition qname elementname substitutiongrouphandler subgrouphandler endcontentmodel checkuniqueparticleattribution substitutiongrouphandler subgrouphandler xmlschemaexception whatcangohere iscompactedforupa 

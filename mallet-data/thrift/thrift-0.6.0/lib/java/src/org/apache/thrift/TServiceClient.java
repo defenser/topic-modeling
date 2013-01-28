@@ -1,0 +1,1 @@
+protocol TProtocol tserviceclient tprotocol getinputprotocol tprotocol getoutputprotocol 

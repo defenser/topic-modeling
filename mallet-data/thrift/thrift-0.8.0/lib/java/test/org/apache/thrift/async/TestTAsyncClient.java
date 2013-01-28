@@ -1,0 +1,1 @@
+async junit framework TestCase TException test Srv test Srv AsyncClient testtasyncclient testcase testraisesexceptionwhenusedconcurrently tasyncclientmanager mockclientmanager tasyncclientmanager override call tasyncmethodcall method texception srv.asyncclient asyncclient mockclientmanager c.janky c.checkready fail 

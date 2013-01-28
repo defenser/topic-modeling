@@ -1,0 +1,1 @@
+transport autoexpandingbuffer array growthcoefficient autoexpandingbuffer initialcapacity growthcoefficient growthcoefficient illegalargumentexception array initialcapacity this.growthcoefficient growthcoefficient resizeifnecessary array.length newbuf growthcoefficient system.arraycopy array newbuf array.length array newbuf array array 

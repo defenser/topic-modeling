@@ -1,0 +1,1 @@
+xni xmllocator getpublicid getliteralsystemid getbasesystemid getexpandedsystemid getcolumnnumber getcharacteroffset getencoding getxmlversion 

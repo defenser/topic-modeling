@@ -1,0 +1,1 @@
+impl xs xs XSNamespaceItem xs XSNamespaceItemList nsitemlistimpl xsnamespaceitemlist xsnamespaceitem flength nsitemlistimpl flength nsitemlistimpl xsnamespaceitem array length array flength length getlength flength xsnamespaceitem item index index index flength xsnamespaceitem fvector.elementat index index 

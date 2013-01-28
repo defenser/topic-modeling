@@ -1,0 +1,1 @@
+transport junit framework TestCase testautoexpandingbuffer testcase testexpands autoexpandingbuffer autoexpandingbuffer assertequals b.array length b.resizeifnecessary assertequals b.array length b.resizeifnecessary asserttrue b.array length 

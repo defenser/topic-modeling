@@ -1,0 +1,1 @@
+impl xml11namespacebinder xmlnamespacebinder xml11namespacebinder prefixboundtonulluri uri localpart 

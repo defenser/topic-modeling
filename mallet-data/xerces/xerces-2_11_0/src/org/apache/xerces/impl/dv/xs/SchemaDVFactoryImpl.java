@@ -1,0 +1,1 @@
+impl dv xs impl dv XSSimpleType SymbolHash schemadvfactoryimpl baseschemadvfactory symbolhash fbuiltintypes symbolhash createbuiltintypes createbuiltintypes createbuiltintypes fbuiltintypes xssimpletypedecl.fanysimpletype xssimpletype getbuiltintype name xssimpletype fbuiltintypes.get name symbolhash getbuiltintypes symbolhash fbuiltintypes.makeclone 

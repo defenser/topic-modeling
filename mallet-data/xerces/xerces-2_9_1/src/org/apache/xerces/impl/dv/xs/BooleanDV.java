@@ -1,0 +1,1 @@
+impl dv xs impl dv InvalidDatatypeValueException impl dv ValidationContext booleandv typevalidator getallowedfacets xssimpletypedecl.facet_pattern xssimpletypedecl.facet_whitespace getactualvalue content validationcontext context invaliddatatypevalueexception content content boolean.false content content boolean.true invaliddatatypevalueexception content 

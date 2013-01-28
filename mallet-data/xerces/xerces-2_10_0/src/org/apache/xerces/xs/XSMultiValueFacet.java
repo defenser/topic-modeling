@@ -1,0 +1,1 @@
+xs xsmultivaluefacet xsobject getfacetkind getlexicalfacetvalues xsobjectlist getannotations 

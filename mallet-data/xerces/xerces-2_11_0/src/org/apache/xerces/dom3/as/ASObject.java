@@ -1,0 +1,1 @@
+dom3 asobject as_element_declaration as_attribute_declaration as_notation_declaration as_entity_declaration as_contentmodel as_model getasnodetype asmodel getownerasmodel setownerasmodel asmodel ownerasmodel getnodename setnodename nodename getprefix setprefix prefix getlocalname setlocalname localname getnamespaceuri setnamespaceuri namespaceuri asobject cloneasobject deep 

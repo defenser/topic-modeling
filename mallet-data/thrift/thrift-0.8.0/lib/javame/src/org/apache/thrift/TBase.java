@@ -1,0 +1,1 @@
+protocol TProtocol tbase read tprotocol iprot texception write tprotocol oprot texception compareto 

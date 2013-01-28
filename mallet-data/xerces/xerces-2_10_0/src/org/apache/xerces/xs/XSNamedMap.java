@@ -1,0 +1,1 @@
+xs xsnamedmap getlength xsobject item index xsobject itembyname namespace localname 

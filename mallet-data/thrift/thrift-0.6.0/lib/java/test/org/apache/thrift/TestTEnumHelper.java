@@ -1,0 +1,1 @@
+test Numberz junit framework TestCase testtenumhelper testcase testgetbyvalue_validvalues numberz numberz.values n.getvalue assertequals tenumhelper.getbyvalue numberz.class testgetbyvalue_invalidvalue assertequals tenumhelper.getbyvalue numberz.class testgetbyvalue_invalidclass assertequals tenumhelper.getbyvalue tenum.class 

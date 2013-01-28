@@ -1,0 +1,1 @@
+xs xsnotationdeclaration xsobject getsystemid getpublicid xsannotation xsobjectlist getannotations 

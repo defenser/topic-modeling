@@ -1,0 +1,1 @@
+xmlsymbols xmlsymbols empty_string intern prefix_xml intern prefix_xmlns intern fanysymbol intern fcdatasymbol intern fidsymbol intern fidrefsymbol intern fidrefssymbol intern fentitysymbol intern fentitiessymbol intern fnmtokensymbol intern fnmtokenssymbol intern fnotationsymbol intern fenumerationsymbol intern fimpliedsymbol intern frequiredsymbol intern ffixedsymbol intern 

@@ -1,0 +1,1 @@
+xs xstypedefinition xsobject complex_type simple_type gettypecategory xstypedefinition getbasetype isfinal restriction getfinal getanonymous derivedfromtype xstypedefinition ancestortype derivationmethod derivedfrom namespace name derivationmethod 

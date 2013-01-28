@@ -1,0 +1,1 @@
+impl dv dtd impl dv DatatypeValidator impl dv InvalidDatatypeValueException impl dv ValidationContext XMLChar nmtokendatatypevalidator datatypevalidator nmtokendatatypevalidator validate content validationcontext context invaliddatatypevalueexception xmlchar.isvalidnmtoken content invaliddatatypevalueexception content 

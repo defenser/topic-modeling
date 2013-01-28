@@ -1,0 +1,1 @@
+xni namespacecontext xml_uri intern xmlns_uri intern pushcontext popcontext declareprefix prefix uri geturi prefix getprefix uri getdeclaredprefixcount getdeclaredprefixat index getallprefixes reset 

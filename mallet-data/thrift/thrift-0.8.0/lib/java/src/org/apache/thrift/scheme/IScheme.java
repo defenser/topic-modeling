@@ -1,0 +1,1 @@
+scheme TBase ischeme t tbase read org.apache.thrift.protocol.tprotocol iproto t struct org.apache.thrift.texception write org.apache.thrift.protocol.tprotocol oproto t struct org.apache.thrift.texception 

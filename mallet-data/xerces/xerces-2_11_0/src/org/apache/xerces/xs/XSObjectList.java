@@ -1,0 +1,1 @@
+xs xsobjectlist getlength xsobject item index 

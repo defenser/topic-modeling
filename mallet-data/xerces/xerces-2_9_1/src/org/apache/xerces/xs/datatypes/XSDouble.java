@@ -1,0 +1,1 @@
+xs datatypes xsdouble getvalue 

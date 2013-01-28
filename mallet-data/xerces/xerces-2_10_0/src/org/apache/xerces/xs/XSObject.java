@@ -1,0 +1,1 @@
+xs xsobject gettype getnamespace xsnamespaceitem getnamespaceitem 

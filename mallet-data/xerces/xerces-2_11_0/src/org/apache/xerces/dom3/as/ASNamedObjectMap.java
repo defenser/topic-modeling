@@ -1,0 +1,1 @@
+dom3 w3c dom DOMException asnamedobjectmap getlength asobject getnameditem name asobject getnameditemns namespaceuri localname asobject item index asobject removenameditem name domexception asobject removenameditemns namespaceuri localname domexception asobject setnameditem asobject newasobject domexception asobject setnameditemns asobject newasobject domexception 

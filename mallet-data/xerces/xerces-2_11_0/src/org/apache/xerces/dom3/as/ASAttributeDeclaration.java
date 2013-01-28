@@ -1,0 +1,1 @@
+dom3 asattributedeclaration asobject value_none value_default value_fixed asdatatype getdatatype setdatatype asdatatype datatype getdatavalue setdatavalue datavalue getenumattr setenumattr enumattr asobjectlist getownerelements setownerelements asobjectlist ownerelements getdefaulttype setdefaulttype defaulttype 

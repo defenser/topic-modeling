@@ -1,0 +1,1 @@
+wml wmlimgelement wmlelement setalt newvalue getalt setsrc newvalue getsrc setlocalsrc newvalue getlocalsrc setvspace newvalue getvspace sethspace newvalue gethspace setalign newvalue getalign setwidth newvalue getwidth setheight newvalue getheight setxmllang newvalue getxmllang 

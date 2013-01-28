@@ -1,0 +1,1 @@
+impl xs opti w3c dom TypeInfo w3c dom Attr w3c dom Node w3c dom w3c dom DOMException attrimpl nodeimpl attr element attrimpl nodetype node.attribute_node attrimpl element prefix localpart rawname uri prefix localpart rawname uri node.attribute_node this.element element rawname getspecified getvalue element setvalue domexception isid typeinfo getschematypeinfo 

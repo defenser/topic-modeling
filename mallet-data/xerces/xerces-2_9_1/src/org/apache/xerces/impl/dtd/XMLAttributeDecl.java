@@ -1,0 +1,1 @@
+impl dtd xni QName xmlattributedecl qname name qname xmlsimpletype simpletype xmlsimpletype optional setvalues qname name xmlsimpletype simpletype optional this.name.setvalues name this.simpletype.setvalues simpletype this.optional optional this.name.clear this.simpletype.clear this.optional 

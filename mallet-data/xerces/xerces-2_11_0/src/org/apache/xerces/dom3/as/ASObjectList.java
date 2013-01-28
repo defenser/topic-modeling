@@ -1,0 +1,1 @@
+dom3 asobjectlist getlength asobject item index 

@@ -1,0 +1,1 @@
+wml dom wml WMLDOMImplementation dom CoreDocumentImpl dom DOMImplementationImpl w3c dom DOMImplementation w3c dom DocumentType wmldomimplementationimpl domimplementationimpl wmldomimplementation domimplementationimpl singleton wmldomimplementationimpl domimplementation getdomimplementation singleton coredocumentimpl createdocument documenttype doctype wmldocumentimpl doctype 

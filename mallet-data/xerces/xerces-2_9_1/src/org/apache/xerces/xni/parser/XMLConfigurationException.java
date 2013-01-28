@@ -1,0 +1,1 @@
+xni parser xni XNIException xmlconfigurationexception xniexception serialversionuid l not_recognized not_supported ftype fidentifier xmlconfigurationexception type identifier identifier ftype type fidentifier identifier xmlconfigurationexception type identifier message message ftype type fidentifier identifier gettype ftype getidentifier fidentifier 

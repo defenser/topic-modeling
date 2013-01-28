@@ -1,0 +1,1 @@
+io protocol TProtocol tbase t tbase f tfieldidenum t read tprotocol iprot texception write tprotocol oprot texception f fieldforid fieldid f field getfieldvalue f field setfieldvalue f field tbase t f deepcopy 

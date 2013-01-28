@@ -1,0 +1,1 @@
+transport ttransport isopen peek isopen ttransportexception close read buf len ttransportexception readall buf len ttransportexception ret len ret read buf len-got ret ttransportexception len ret write buf ttransportexception write buf buf.length write buf len ttransportexception flush ttransportexception getbuffer getbufferposition getbytesremaininginbuffer consumebuffer len 

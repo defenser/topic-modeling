@@ -1,0 +1,1 @@
+protocol testtjsonprotocol protocoltestbase override tprotocolfactory getfactory tjsonprotocol.factory override canbeusednaked 

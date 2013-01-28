@@ -1,0 +1,1 @@
+protocol TProtocol tserviceclientfactory t tserviceclient t getclient tprotocol prot t getclient tprotocol iprot tprotocol oprot 

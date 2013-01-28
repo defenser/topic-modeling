@@ -1,0 +1,1 @@
+vector initialcapacity vector initialcapacity pop vector top-- push pushed vector.length grow vector pushed grow vector.length system.arraycopy vector vector.length vector peek vector override stringbuilder sb stringbuilder sb.append vector.length sb.append sb.append sb.append vector sb.append sb.append sb.tostring 
